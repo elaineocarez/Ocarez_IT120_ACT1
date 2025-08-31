@@ -1,0 +1,7 @@
+First Name: Elaine Rhea
+Middle Name: M.
+Last Name: Ocarez
+Gender: Female
+Age: 20
+Birthday: January 13, 2005
+Contacts: 09165470493
