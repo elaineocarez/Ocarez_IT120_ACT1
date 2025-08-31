@@ -5,3 +5,10 @@ Gender: Female
 Age: 20
 Birthday: January 13, 2005
 Contacts: 09165470493
+
+Birth Place: Cabadbaran City
+Religion: Roman Catholic
+Father's Name: Roy R. Ocarez
+Occupation: Farmer
+Mother's Name: Eva M. Ocarez
+Occupation: House Wife
